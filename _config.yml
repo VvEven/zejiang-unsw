@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lei Liu"
 title_separator          : "-"
-name                     : &name "Lei Liu"
+name                     : &name "Ze Jiang"
 description              : &description "Researcher in WRC@UNSW, Sydney, Australia"
 url                      : https://zejiang-unsw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
